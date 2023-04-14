@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A developer and technical content author
 ----------------------------------------
 
-As a mobile developer and technical writer, I create native and cross-platform apps and share insights from my experience. My writing focuses on JavaScript, React Native, and iOS/Android development. I aim to educate other developers on building mobile and web3 applications through concise yet informative articles.
+I am a skilled JavaScript developer and front-end engineer with a passion for building optimized native and cross-platform mobile software solutions. As a competent developer, I have a proven track record of building high-quality software solutions that exceed client expectations. I am well-versed in the latest JavaScript frameworks and stay up-to-date with emerging trends in the field which keeps me relvant as a developer. In addition to my technical skills, I document my experiences and lessons by writing technical articles that aim to simplify the complexities around software engineering topics.
 
 * ✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
 * 🤝  I'm open to collaborating on Open Source React Native projects
