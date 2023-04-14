@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A developer and technical content author
 ----------------------------------------
 
-I am a skilled JavaScript developer and front-end engineer with a passion for building optimized native and cross-platform mobile software solutions. As a competent developer, I have a proven track record of building high-quality software solutions that exceed client expectations. I am well-versed in the latest JavaScript frameworks and stay up-to-date with emerging trends in the field which keeps me relvant as a developer. In addition to my technical skills, I document my experiences and lessons by writing technical articles that aim to simplify the complexities around software engineering topics.
+I am a skilled JavaScript developer and front-end engineer focused on building optimized native and cross-platform mobile software solutions. As a competent developer, I have a proven track record of building high-quality software solutions that exceed client expectations. I am well-versed in the latest JavaScript frameworks and stay up-to-date with emerging trends in the field which keeps me relvant as a developer. In addition to my technical skills, I document my experiences and lessons by writing technical articles that aim to simplify the complexities around software engineering topics.
 
 * ✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
 * 🤝  I'm open to collaborating on Open Source React Native projects
