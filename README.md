@@ -1,6 +1,6 @@
 Noble Okafor
 ====================================================================================================================================
-A developer and technical content author
+A Software Engineer and Technical Content Author
 ----------------------------------------
 
 I am a skilled JavaScript developer and front-end engineer focused on building optimized native and cross-platform mobile software solutions. As a competent developer, I have a proven track record of building high-quality software solutions that exceed client expectations. I am well-versed in the latest JavaScript frameworks and stay up-to-date with emerging trends in the field which keeps me relvant as a developer. In addition to my technical skills, I document my experiences and lessons by writing technical articles that aim to simplify the complexities around software engineering topics.
