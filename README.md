@@ -1,12 +1,11 @@
-HI, My Name is Noble Okafor
+Hi, my name is Noble Okafor
 ====================================================================================================================================
 A Software Engineer and Technical Content Author
-Welcome to my GitHub Profile
+----------------------------------------
+Welcome to my GitHub Profile👋🏽
 ----------------------------------------
 
 * ✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
-* 🤝  I'm open to collaborating on Open Source React Native projects
-* ⚡  Very keen on creating solutions
 
 ### Skills
 
