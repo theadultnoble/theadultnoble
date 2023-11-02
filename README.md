@@ -1,9 +1,8 @@
-Noble Okafor
+HI, My Name is Noble Okafor
 ====================================================================================================================================
 A Software Engineer and Technical Content Author
+Welcome to my GitHub Profile
 ----------------------------------------
-
-I am a skilled JavaScript developer and front-end engineer focused on building optimized native and cross-platform mobile software solutions. As a competent developer, I have a proven track record of building high-quality software solutions that exceed client expectations. I am well-versed in the latest JavaScript frameworks and stay up-to-date with emerging trends in the field which keeps me relvant as a developer. In addition to my technical skills, I document my experiences and lessons by writing technical articles that aim to simplify the complexities around software engineering topics.
 
 * ✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
 * 🤝  I'm open to collaborating on Open Source React Native projects
