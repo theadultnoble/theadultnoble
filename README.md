@@ -1,9 +1,8 @@
-Hi, my name is Noble Okafor
+Hi, Welcome to my GitHub Profile👋🏽 , my name is Noble Okafor
 ====================================================================================================================================
 A Software Engineer and Technical Content Author
 ----------------------------------------
-Welcome to my GitHub Profile👋🏽
-----------------------------------------
+
 
 * ✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
 
