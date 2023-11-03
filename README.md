@@ -1,4 +1,4 @@
-Hi, welcome to my GitHub Profile👋🏽. My name is Noble Okafor
+Hi, welcome to my GitHub👋🏽. My name is Noble Okafor
 ===========================================================================
 A Software Engineer and Technical Writer
 ----------------------------------------
@@ -7,7 +7,6 @@ A Software Engineer and Technical Writer
 * ✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
