@@ -5,7 +5,7 @@ A Software Engineer and Technical Writer
 
 
 * ✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
-* ✉️  Currently working on React Native with [Expo](https://expo.dev/)
+* Currently working on React Native with [Expo](https://expo.dev/)
 ### Skills
 
 <p align="left">
