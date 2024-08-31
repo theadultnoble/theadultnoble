@@ -1,6 +1,6 @@
-Hi, welcome to my GitHub👋🏽. My name is Noble Okafor
+Welcome to my GitHub👋🏽. I'm Noble Okafor
 ===========================================================================
-A Software Engineer and Technical Writer
+A software developer and technical writer
 ----------------------------------------
 
 
