@@ -1,7 +1,6 @@
 Welcome to my GitHub👋🏽, I'm Noble Okafor.
 ===========================================================================
 A software developer and technical writer.
-----------------------------------------
 
 ### Skills
 * Currently working on React Native with [Expo](https://expo.dev/)
