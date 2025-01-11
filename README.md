@@ -1,6 +1,6 @@
 Welcome to my GitHub👋🏽, I'm Noble Okafor.
 ==========================================
-A software developer and technical writer.
+A Technical writer.
 ------------------------------------------
 
 ## Skills
