@@ -1,6 +1,6 @@
 Welcome to my GitHub👋🏽, I'm Noble Okafor.
 ==========================================
-A Software Documentation Engineer.
+A Technical Documentation Engineer.
 ------------------------------------------
 
 ## Skills
