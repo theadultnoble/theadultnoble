@@ -1,4 +1,4 @@
-Welcome to my GitHub👋🏽, I'm Noble Okafor. A Technical Documentation Engineer.
+Welcome to my GitHub👋🏽. I'm Noble Okafor. A Technical Documentation Engineer.
 ==========================================
 
 <p align="left">
