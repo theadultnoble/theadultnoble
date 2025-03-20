@@ -1,6 +1,6 @@
 ##Welcome to my GitHub👋🏽. I'm Noble Okafor. A Documentation Engineer.
 
-My skillsets include:
+🔧 My skillsets include:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -14,6 +14,6 @@ My skillsets include:
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-* ✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
+✉️  You can contact me at [okafornoble202@gmail.com](mailto:okafornoble202@gmail.com)
 
 <p align="left"> <a href="https://www.github.com/theadultnoble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/noble-okafor-42a5801bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/No6leOkafor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
